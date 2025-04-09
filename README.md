@@ -1,7 +1,3 @@
-
----
-
-```
 # 🌦️ Weather Forecast Dashboard  
 ### Hi, I am Kushagra Prakash Singhal
 
